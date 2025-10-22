@@ -20,12 +20,10 @@ This framework consists setup for BDD automation tests using cucumber.js and Typ
 Clone the repository from Git using -- `git clone`
 
 ### Pre-requisites
-<pre>
 Latest visual studio code - https://code.visualstudio.com/Download
 Node-js version 24 or above - https://nodejs.org/en/download
 npm version - 11.6.2
 Cucumber plug-in installation `Cucumber (Gherkin) Full support` through extensions in visual studio code
-</pre>
 
 ### Installing dependencies
 Open the project in visual studio code and open a new terminal in the project
