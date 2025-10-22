@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "y": "^0.3.2"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.2.0",
+    "@types/node": "^24.8.1",
+    "axios": "^1.12.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "name": "ramyamtechtask",
+  "description": "Ramya Technical Task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramyam2405/RamyaMTechTask.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramyam2405/RamyaMTechTask/issues"
+  },
+  "homepage": "https://github.com/ramyam2405/RamyaMTechTask#readme"
+}
