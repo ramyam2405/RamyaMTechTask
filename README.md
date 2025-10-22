@@ -29,11 +29,13 @@ Open the project in visual studio code and open a new terminal in the project
 Run `npm install`
 
 #### Dependencies
+<pre>
 @cucumber/cucumber
 ts-node
 typescript
 dotenv
 axios
+</pre>
 
 ## Adding tests
 Scenarios are defined in the .feature file under features folder using Gherkin syntax
