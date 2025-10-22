@@ -28,8 +28,7 @@ Clone the repository from Git using -- `git clone`
 
 
 ### Installing dependencies
-Open the project in visual studio code and open a new terminal in the project
-Run `npm install`
+Open the project in visual studio code and open a new terminal in the project to run `npm install`
 
 #### Dependencies
 <pre>
@@ -41,10 +40,10 @@ axios
 </pre>
 
 ## Adding tests
-Scenarios are defined in the .feature file under features folder using Gherkin syntax
-Steps definitions are implemented in .steps.ts file under step_definitions folder
-setup.steps.ts file is for hooks under step_definitions folder
-shared.ts file is for reusable types and state under step_definitions folder
+- Scenarios are defined in the .feature file under features folder using Gherkin syntax
+- Steps definitions are implemented in .steps.ts file under step_definitions folder
+- setup.steps.ts file is for hooks under step_definitions folder
+- shared.ts file is for reusable types and state under step_definitions folder
 
 ## Running tests
 Open the project in visual studio code and open a terminal in the project
