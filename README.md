@@ -22,6 +22,7 @@ Clone the repository from Git using -- `git clone`
 ### Pre-requisites
 Latest visual studio code - https://code.visualstudio.com/Download
 Node-js version 24 or above - https://nodejs.org/en/download
+npm version - 11.6.2
 Cucumber plug-in installation `Cucumber (Gherkin) Full support` through extensions in visual studio code
 
 ### Installing dependencies
