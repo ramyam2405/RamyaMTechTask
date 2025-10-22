@@ -48,10 +48,11 @@ shared.ts file is for reusable types and state under step_definitions folder
 
 ## Running tests
 Open the project in visual studio code and open a terminal in the project
-To run all the tests use - `npx cucumber-js`
-To run tests with specific tags use - `npx cucumber-js --tags ""` - example - `npx cucumber-js --tags "@APITest"`
+- To run all the tests use - `npx cucumber-js`
+- To run tests with specific tags use - `npx cucumber-js --tags ""` - example - `npx cucumber-js --tags "@APITest"`
 
 ### Test reports
-Test reports are automatically generated and stored under reports folder as cucumber-report.html
+Test reports are automatically generated and stored under reports folder as cucumber-report.html.
+
 To view the reports in browser install plug-in `open in browser` through extensions in visual studio code
 
