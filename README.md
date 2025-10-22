@@ -2,6 +2,7 @@
 This framework consists setup for BDD automation tests using cucumber.js and TypeScript for the agify API
 
 ## Project structure
+\\\
 |---cucumber_tests
 |  |---config
 |    |---env.ts
@@ -14,7 +15,7 @@ This framework consists setup for BDD automation tests using cucumber.js and Typ
 |---.env
 |---cucumber.js
 |---tsconfig.json
-
+\\\
 ## Setting up
 Clone the repository from Git using -- `git clone`
 
